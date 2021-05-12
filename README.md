@@ -1,6 +1,6 @@
-# AI_Project
+# AI Project: Movie Recommendation system with Reinforcement Learning
 
-The objective of this project is to build a Movie Recommendation system with  Reinforcement Learning to understand its implementation and try to incorporate a hybrid movie filtering technique.
+The objective of this project is to build a Movie Recommendation system with Reinforcement Learning to understand its implementation and try to incorporate a hybrid movie filtering technique.
 
 A traditional recommender systems have been modeled with two paradigms, collaborative filtering and content-based systems.
 In collaborative filtering-based methods, the recommendation is built over the “user-item interaction matrix”, which are records of users’ past interaction with the items. The underlying concept for collaborative filter-based methods is to detect similar users and their interest based on their proximity. A collaborative filtering algorithm can be built on the following methods: memory based, and model based. In the memory-based method, for a new user, the most similar user is identified, and their most liked content is recommended. In the memory-based method, there is no concept of variance or bias as the error cannot be quantified. In the model-based method, a generative model is built on top of the user-item interaction matrix and the model is then used to predict new users. In this variant of modeling, model bias and variance are observed.
